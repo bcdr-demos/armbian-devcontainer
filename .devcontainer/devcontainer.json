@@ -1,0 +1,7 @@
+{
+    "name": "armbian",
+    "build": {
+      "dockerfile": "../Dockerfile",
+      "context": "../"
+    },
+  }
